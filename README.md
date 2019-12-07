@@ -1,0 +1,2 @@
+# qbitorrent
+crash log
